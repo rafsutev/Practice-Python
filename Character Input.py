@@ -1,3 +1,4 @@
+# https://www.practicepython.org/exercise/2014/01/29/01-character-input.html
 
 name = input("Hi, what is your name? ")
 age = int(input(f"How old are you {name}? "))
