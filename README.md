@@ -2,5 +2,5 @@
 
 Practice exercises taken from https://www.practicepython.org/
 
-- [ ] Character Input
+- [x] Character Input
 
