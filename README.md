@@ -10,10 +10,10 @@ Exercises are rated using chillis: https://www.practicepython.org/chilis/
 - [x] Element Search
 - [ ] Write To A File
 - [ ] Read From File
-- [ ] Max Of Three
+- [x] Max Of Three
 - [ ] Birthday Dictionaries
 - [ ] f Strings
-- [ ] Character Input Datetime   
+- [ ] Character Input Datetime
 
 :hot_pepper::hot_pepper:
 - [x] List Less Than Ten
