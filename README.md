@@ -7,4 +7,5 @@ Practice exercises taken from https://www.practicepython.org/
 - [x] 3.List Less Than Ten
 - [x] 4.Divisors
 - [x] 5.List Overlap
+- [ ] 6.String Lists
 
