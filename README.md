@@ -2,7 +2,9 @@
 
 Practice exercises taken from https://www.practicepython.org/
 
-- [x] Character Input
-- [x] Odd Or Even
-- [x] List Less Than Ten
+- [x] 1.Character Input
+- [x] 2.Odd Or Even
+- [x] 3.List Less Than Ten
+- [x] 4.Divisors
+- [ ] 5.List Overlap
 
