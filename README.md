@@ -6,7 +6,7 @@ Exercises are rated using chillis: https://www.practicepython.org/chilis/
 :hot_pepper:
 - [x] Character Input
 - [x] Odd Or Even
-- [ ] List Ends
+- [x] List Ends
 - [ ] Element Search
 - [ ] Write To A File
 - [ ] Read From File
