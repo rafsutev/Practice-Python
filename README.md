@@ -1,6 +1,6 @@
 # Practice Python
 
-Practice exercises taken from https://www.practicepython.org/
+Practice exercises taken from https://www.practicepython.org/<br>
 Exercises are rated using chillis: https://www.practicepython.org/chilis/
 
 :hot_pepper:
