@@ -7,7 +7,7 @@ Exercises are rated using chillis: https://www.practicepython.org/chilis/
 - [x] Character Input
 - [x] Odd Or Even
 - [x] List Ends
-- [ ] Element Search
+- [x] Element Search
 - [ ] Write To A File
 - [ ] Read From File
 - [ ] Max Of Three
