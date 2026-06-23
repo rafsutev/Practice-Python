@@ -2,7 +2,7 @@
 
 Practice exercises taken from https://www.practicepython.org/<br>
 Exercises are rated using chillis: https://www.practicepython.org/chilis/<br>
-Files organised into folders based on chilli rating
+Files organised into folders based on chilli rating.
 
 :hot_pepper:
 - [x] Character Input
@@ -22,6 +22,5 @@ Files organised into folders based on chilli rating
 - [x] List Overlap
 - [ ] String Lists
 - [x] List Comprehensions
-- [ ] Fibonacci
 - [x] List Overlap Comprehensions
-
+- [ ] Fibonacci
