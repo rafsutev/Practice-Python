@@ -11,7 +11,7 @@ Exercises are rated using chillis: https://www.practicepython.org/chilis/
 - [ ] Write To A File
 - [ ] Read From File
 - [x] Max Of Three
-- [ ] Birthday Dictionaries
+- [x] Birthday Dictionaries
 - [x] f Strings
 - [ ] Character Input Datetime
 
