@@ -3,7 +3,8 @@
 birthdays = {
     "benjamin franklin": "01/17/1706",
     "albert einstein": "03/14/1879",
-    "mark zuckerberg": "05/14/1984"
+    "mark zuckerberg": "05/14/1984",
+    "sofia bazdaric": "03/23/2001"
 }
 
 print("Welcome to the birthday dictonary here is who we have on record:")
