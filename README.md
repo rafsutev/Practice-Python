@@ -13,7 +13,7 @@ Exercises are rated using chillis: https://www.practicepython.org/chilis/
 - [x] Max Of Three
 - [x] Birthday Dictionaries
 - [x] f Strings
-- [ ] Character Input Datetime
+- [x] Character Input Datetime
 
 :hot_pepper::hot_pepper:
 - [x] List Less Than Ten
