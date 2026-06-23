@@ -21,4 +21,5 @@ Files organised into folders based on chilli rating
 - [x] Divisors
 - [x] List Overlap
 - [ ] String Lists
+- [x] List Comprehensions
 
