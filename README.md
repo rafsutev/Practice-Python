@@ -27,3 +27,12 @@ Files organised into folders based on chilli rating.
 - [x] List Remove Duplicates
 - [ ] File Overlap
 - [ ] Draw A Game Board
+- [ ] Check Tic Tac Toe
+- [ ] Tic Tac Toe Draw
+- [ ] Pick Word
+- [ ] Guess Letters
+- [ ] Hangman
+- [ ] Birthday Json
+- [ ] Birthday Months
+- [ ] Functions Refractor
+- [ ] 
