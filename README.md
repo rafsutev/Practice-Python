@@ -25,3 +25,4 @@ Files organised into folders based on chilli rating.
 - [x] List Overlap Comprehensions
 - [ ] Fibonacci
 - [x] List Remove Duplicates
+- [ ] File Overlap
