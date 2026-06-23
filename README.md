@@ -9,7 +9,7 @@ Files organised into folders based on chilli rating.
 - [x] Odd Or Even
 - [x] List Ends
 - [x] Element Search
-- [ ] Write To A File
+- [x] Write To A File
 - [ ] Read From File
 - [x] Max Of Three
 - [x] Birthday Dictionaries
