@@ -1,7 +1,8 @@
 # Practice Python
 
 Practice exercises taken from https://www.practicepython.org/<br>
-Exercises are rated using chillis: https://www.practicepython.org/chilis/
+Exercises are rated using chillis: https://www.practicepython.org/chilis/<br>
+Files organised into folders based on chilli rating
 
 :hot_pepper:
 - [x] Character Input
