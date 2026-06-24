@@ -20,7 +20,7 @@ Files organised into folders based on chilli rating.
 - [x] List Less Than Ten
 - [x] Divisors
 - [x] List Overlap
-- [ ] String Lists
+- [x] String Lists
 - [x] List Comprehensions
 - [x] List Overlap Comprehensions
 - [ ] Fibonacci
