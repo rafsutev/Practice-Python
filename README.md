@@ -23,7 +23,7 @@ Files organised into folders based on chilli rating.
 - [x] String Lists
 - [x] List Comprehensions
 - [x] List Overlap Comprehensions
-- [ ] Fibonacci
+- [x] Fibonacci
 - [x] List Remove Duplicates
 - [ ] File Overlap
 - [ ] Draw A Game Board
