@@ -6,7 +6,7 @@ def check_word(length,letter):
         for word in f:
             word = word.strip()
 
-            if len(word) <= length and word[0] == letter:
+            if len(word) == length and word[0] == letter:
                 print(word)
 
 user_length = int(input("What is the length of your desired word? "))
